@@ -1,7 +1,7 @@
 {
     "name": "wartner-io/customer-cli",
-    "description": "The Laravel Zero Framework.",
-    "keywords": ["framework", "laravel", "laravel zero", "console", "cli"],
+    "description": "The customer cli for the wartner-io platform",
+    "keywords": ["cli", "customers"],
     "homepage": "https://wartner.io",
     "type": "project",
     "license": "MIT",
