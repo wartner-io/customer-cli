@@ -31,4 +31,4 @@ jobs:
 
 
     - name: Run test suite
-      run: php app:build
+      run: php customer app:build
